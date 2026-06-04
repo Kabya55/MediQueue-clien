@@ -26,6 +26,21 @@ MediQueue is a premium, state-of-the-art tutor booking platform designed to simp
 - **Development Tooling**: Git Version Control, Nodemon, ESLint.
 
 ---
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+<img width="1920" height="4158" alt="mediQueue" src="https://github.com/user-attachments/assets/fc513d25-02e3-422e-8f33-7c5e7c4c7f86" />
+
+
+### 📚 Tutors Page
+<img width="2560" height="3645" alt="screencapture-medi-queue-clien-vercel-app-tutors-2026-06-04-12_31_34" src="https://github.com/user-attachments/assets/fd9bd592-806a-4b55-9534-d1bed5ed371e" />
+
+## ✨ Add Tutor Page
+<img width="850" height="1207" alt="Screenshot_6" src="https://github.com/user-attachments/assets/8b3f4343-b867-46a9-9884-3a4d6e66a026" />
+
+
+
+---
 
 ## 🚀 Local Installation & Set Up
 
